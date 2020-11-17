@@ -1,0 +1,16 @@
+name: plugin
+version: 1.0
+author: Zeldaboy111
+main: tutorial.zeldaboy111.Main
+description: Tutorial plugin
+api-version: 1.15
+
+commands:
+  test:
+    usage: /<command>
+    description: Test command
+  inventory:
+    usage: /<command>
+    description: Command used to open an inventory
+    aliases:
+      - inv
