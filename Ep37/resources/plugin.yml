@@ -1,0 +1,11 @@
+name: HologamNpcPlugin
+version: 1.0
+api-version: 1.15
+author: Zeldaboy111
+description: Plugin containing holograms and npcs [basic]
+main: me.zeldaboy111.Main
+
+commands:
+    hologram:
+      usage: /<command>
+      description: Command used to create holograms
