@@ -1,0 +1,6 @@
+name: FileManager
+version: 1.0
+api-version: 1.15
+author: Zeldaboy111
+description: A plugin with a manager for file
+main: fm.zeldaboy111.Main
