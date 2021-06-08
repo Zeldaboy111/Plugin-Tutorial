@@ -1,0 +1,10 @@
+name: Npc
+description: A plugin containing NPCs
+author: Zeldaboy111
+version: 1.0
+main: npc.zeldaboy111.Main
+api-version: 1.15
+
+commands:
+  npc:
+    usage: /<command>
